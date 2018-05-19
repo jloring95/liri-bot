@@ -235,3 +235,29 @@ Actors: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
 ------------------------------Log End------------------------------
 
 
+-----------------------------Log Start-----------------------------
+
+
+            Date: Sat May 19 2018 08:58:15 GMT-0400 (EDT)
+
+            Inputs: do-what-it-says
+
+            Outputs:
+
+                
+                
+Title: The Lion King                
+Year: 1994                
+IMDB Rating: 8.5                
+Rotten Tomatoes Rating: 93%                
+Country: USA                
+Language: English, Swahili, Xhosa, Zulu                
+Plot: English, Swahili, Xhosa, Zulu                
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+
+            
+
+            
+------------------------------Log End------------------------------
+
+

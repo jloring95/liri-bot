@@ -35,6 +35,39 @@ switch (selector) {
         break;
 }
 
+function myTweets() {
+
+    var tweetsArr = []
+    count = 0;
+
+    client.get('statuses/user_timeline', params, function(error, tweets, response) {
+        if (!error) {
+
+            var tweetHistory = function (){ 
+                if (count <20){
+                    tweetsArr.push(`${params.screen_name} tweeted \t${tweets[count].text}\tat ${tweets[count].created_at}.`);
+                    count++;
+                    tweetHistory();
+                }   
+            }
+            tweetHistory();
+        }
+        console.log(tweetsArr.join('\n'));
+
+        var terminalInputs = process.argv.splice(2,3);
+        fs.appendFile('log.txt', 
+        (`-----------------------------Log Start-----------------------------\n\n
+        Date: ${Date()}\n
+        Inputs: ${terminalInputs}\n
+        Outputs:\n
+            \n${tweetsArr.join('\n')}\n
+        \n------------------------------Log End------------------------------\n\n\n`), 
+        function (err) {
+            if (err) throw err;
+        });
+    });
+} 
+
 function spotifyMe(command) {
     
     if (command == null) {
@@ -99,40 +132,6 @@ function spotifyMe(command) {
         console.error('Error occurred: ' + err); 
     });
 }
-
-
-function myTweets() {
-
-    var tweetsArr = []
-    count = 0;
-
-    client.get('statuses/user_timeline', params, function(error, tweets, response) {
-        if (!error) {
-
-            var tweetHistory = function (){ 
-                if (count <20){
-                    tweetsArr.push(`${params.screen_name} tweeted \t${tweets[count].text}\tat ${tweets[count].created_at}.`);
-                    count++;
-                    tweetHistory();
-                }   
-            }
-            tweetHistory();
-        }
-        console.log(tweetsArr.join('\n'));
-
-        var terminalInputs = process.argv.splice(2,3);
-        fs.appendFile('log.txt', 
-        (`-----------------------------Log Start-----------------------------\n\n
-        Date: ${Date()}\n
-        Inputs: ${terminalInputs}\n
-        Outputs:\n
-            \n${tweetsArr.join('\n')}\n
-        \n------------------------------Log End------------------------------\n\n\n`), 
-        function (err) {
-            if (err) throw err;
-        });
-    });
-} 
 
 function omdbMe(command) {
     if (command == null) {
