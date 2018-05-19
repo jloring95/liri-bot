@@ -1,0 +1,211 @@
+-----------------------------Log Start-----------------------------
+
+
+            Date: Sat May 19 2018 08:46:44 GMT-0400 (EDT)
+
+            Inputs: do-what-it-says
+
+            Outputs:
+
+                
+                
+Title: The Dark Knight                
+Year: 2008                
+IMDB Rating: 9.0                
+Rotten Tomatoes Rating: 94%                
+Country: USA, UK                
+Language: English, Mandarin                
+Plot: English, Mandarin                
+Actors: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
+
+            
+
+            
+------------------------------Log End------------------------------
+
+
+-----------------------------Log Start-----------------------------
+
+
+            Date: Sat May 19 2018 08:46:46 GMT-0400 (EDT)
+
+            Inputs: do-what-it-says
+
+            Outputs:
+
+                
+                
+Title: Fight Club                
+Year: 1999                
+IMDB Rating: 8.8                
+Rotten Tomatoes Rating: 79%                
+Country: USA, Germany                
+Language: English                
+Plot: English                
+Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+
+            
+
+            
+------------------------------Log End------------------------------
+
+
+-----------------------------Log Start-----------------------------
+
+
+            Date: Sat May 19 2018 08:46:48 GMT-0400 (EDT)
+
+            Inputs: do-what-it-says
+
+            Outputs:
+
+                
+                
+Title: The Godfather                
+Year: 1972                
+IMDB Rating: 9.2                
+Rotten Tomatoes Rating: 98%                
+Country: USA                
+Language: English, Italian, Latin                
+Plot: English, Italian, Latin                
+Actors: Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+
+            
+
+            
+------------------------------Log End------------------------------
+
+
+-----------------------------Log Start-----------------------------
+
+
+        Date: Sat May 19 2018 08:46:49 GMT-0400 (EDT)
+
+        Inputs: do-what-it-says
+
+        Outputs:
+
+            Artist: Queen
+
+            Song Name: Bohemian Rhapsody
+
+            Song Link: 
+
+https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J
+
+            Album: A Night At The Opera (Deluxe Remastered Version)
+
+        
+------------------------------Log End------------------------------
+
+
+-----------------------------Log Start-----------------------------
+
+
+            Date: Sat May 19 2018 08:46:51 GMT-0400 (EDT)
+
+            Inputs: do-what-it-says
+
+            Outputs:
+
+                
+                
+Title: Inception                
+Year: 2010                
+IMDB Rating: 8.8                
+Rotten Tomatoes Rating: 86%                
+Country: USA, UK                
+Language: English, Japanese, French                
+Plot: English, Japanese, French                
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+
+            
+
+            
+------------------------------Log End------------------------------
+
+
+-----------------------------Log Start-----------------------------
+
+
+        Date: Sat May 19 2018 08:46:54 GMT-0400 (EDT)
+
+        Inputs: do-what-it-says
+
+        Outputs:
+
+            Artist: Eagles
+
+            Song Name: Hotel California - Remastered
+
+            Song Link: 
+
+https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=dfec257abc29445eb6c611550037f04c
+
+            Album: Hotel California (Remastered)
+
+        
+------------------------------Log End------------------------------
+
+
+-----------------------------Log Start-----------------------------
+
+
+            Date: Sat May 19 2018 08:47:00 GMT-0400 (EDT)
+
+            Inputs: do-what-it-says
+
+            Outputs:
+
+                
+                
+Title: The Godfather                
+Year: 1972                
+IMDB Rating: 9.2                
+Rotten Tomatoes Rating: 98%                
+Country: USA                
+Language: English, Italian, Latin                
+Plot: English, Italian, Latin                
+Actors: Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+
+            
+
+            
+------------------------------Log End------------------------------
+
+
+-----------------------------Log Start-----------------------------
+
+
+        Date: Sat May 19 2018 08:47:10 GMT-0400 (EDT)
+
+        Inputs: my-tweets
+
+        Outputs:
+
+            
+BootcampJ tweeted 	read pls	at Fri May 18 22:51:30 +0000 2018.
+BootcampJ tweeted 	The sign said	at Fri May 18 22:51:22 +0000 2018.
+BootcampJ tweeted 	pet   food	at Fri May 18 22:51:13 +0000 2018.
+BootcampJ tweeted 	So I did  .	at Fri May 18 22:50:59 +0000 2018.
+BootcampJ tweeted 	----------	at Fri May 18 22:49:34 +0000 2018.
+BootcampJ tweeted 	Say what you want	at Fri May 18 22:49:22 +0000 2018.
+BootcampJ tweeted 	about deaf people.	at Fri May 18 22:49:15 +0000 2018.
+BootcampJ tweeted 	-----------	at Fri May 18 22:48:25 +0000 2018.
+BootcampJ tweeted 	What do dwarves	at Fri May 18 22:47:50 +0000 2018.
+BootcampJ tweeted 	and midgets	at Fri May 18 22:47:42 +0000 2018.
+BootcampJ tweeted 	have in common?	at Fri May 18 22:47:35 +0000 2018.
+BootcampJ tweeted 	Very little.	at Fri May 18 22:46:58 +0000 2018.
+BootcampJ tweeted 	-------------	at Fri May 18 22:46:07 +0000 2018.
+BootcampJ tweeted 	What's the	at Fri May 18 22:45:30 +0000 2018.
+BootcampJ tweeted 	bare minimum?	at Fri May 18 22:45:23 +0000 2018.
+BootcampJ tweeted 	1 bear      .	at Fri May 18 22:43:41 +0000 2018.
+BootcampJ tweeted 	------------	at Fri May 18 22:38:36 +0000 2018.
+BootcampJ tweeted 	A Plateau is	at Fri May 18 22:35:44 +0000 2018.
+BootcampJ tweeted 	highest form	at Fri May 18 22:35:33 +0000 2018.
+BootcampJ tweeted 	of flattery.	at Fri May 18 22:35:17 +0000 2018.
+
+        
+------------------------------Log End------------------------------
+
+

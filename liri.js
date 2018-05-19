@@ -20,7 +20,6 @@ var params = {
     count: 20
 };
 
-
 switch (selector) {
     case 'my-tweets':
         myTweets();
@@ -35,7 +34,6 @@ switch (selector) {
         random();
         break;
 }
-
 
 function spotifyMe(command) {
     
