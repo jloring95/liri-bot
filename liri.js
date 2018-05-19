@@ -169,22 +169,19 @@ function omdbMe(command) {
 
 function random() {
     fs.readFile('random.txt', 'utf8', function(error, data) {
-        if (error) {
-            console.log(error);
-        } else {
+        if (!error) {
             var rand = Math.floor(Math.random() * 12);
-
-            console.log[dataArr]
             var dataArr = data.split('\n');
-            console.log(dataArr)
             var dataArray = dataArr[rand].split(',')
-            console.log(dataArray)
+
             if (dataArray[0] === 'spotify-this-song') {
                 spotifyMe(dataArray[1]);
             }
             if (dataArray[0] === 'movie-this') {
                 omdbMe(dataArray[1]);
             }
+        } else {
+            console.log(error);
         }
     });
 } 
